@@ -21,7 +21,7 @@ When Refactored Code was run, it got faster. 2017 code droped from .14 to .11 se
 
 ## Screen-Shots
 
-![Org Code 2017](https://github.com/keithrabb/Stock-analysis/Resources/Org_Code_2017.png)
+![Org Code 2017](https://github.com/keithrabb/stock-analysis/resources/Org_Code_2017.png)
 
 
 
