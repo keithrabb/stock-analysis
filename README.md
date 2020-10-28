@@ -19,7 +19,10 @@ When Refactored Code was run, it got faster. 2017 code droped from .14 to .11 se
 
 *This is done by creating the tickerIndex and pointing to it rather than creating an "And Cells(*, *).* 
 
-## Sreen-Shots
+## Screen-Shots
+![Org_Code_2017](Resources/Org_Code_2017)
+
+
 
 
   
