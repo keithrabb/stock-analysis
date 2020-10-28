@@ -11,7 +11,13 @@
 - Refactored Code 2018 ran at 0.109375 seconds
 
 When Original Homework Code was run it progressively got slower.
-When Refactored Code was run, it got faster.  2017 code droped from .14*** to .11***
+When Refactored Code was run, it got faster. 2017 code droped from .14 to .11 seconds
+
+### Why did this happen?
+*The answer came to me while I was dreaming about this problem and led me to resolution to push through the project.*  
+*Get rid of the "junk" you do not need first, and then begin the loop.* 
+
+*This is done by creating the tickerIndex and pointing to it rather than creating an "And Cells(*, *).* 
 
 
   
