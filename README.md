@@ -17,7 +17,7 @@ When Refactored Code was run, it got faster. 2017 code droped from .14 to .11 se
 *The answer came to me while I was dreaming about this problem and led me to resolution to push through the project.*  
 *Get rid of the "junk" that is not needed, then continue on."* 
 
-*This is done by creating the tickerIndex, running the tickIndex loop, then closing it (no nested loop).  Another methond I believe speed up the process was,rather than creating an "And Cells(*, *), and creating "tickerIndex = tickerIndex + 1" at the end of the 2nd loop.* 
+*This is done by creating the tickerIndex, running the tickIndex loop, then closing it (no nested loop).  Another methond I believe sped up the process was, rather than creating an "And Cells(*, *), and creating "tickerIndex = tickerIndex + 1" at the end of the 2nd loop.* 
 
 ## Screen-Shots - Code Time
 ### 2017 Original Code Run Time
