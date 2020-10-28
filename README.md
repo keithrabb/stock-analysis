@@ -20,14 +20,16 @@ When Refactored Code was run, it got faster. 2017 code droped from .14 to .11 se
 *This is done by creating the tickerIndex and pointing to it rather than creating an "And Cells(*, *).* 
 
 ## Screen-Shots
-
+### 2017 Original Code Run Time
 ![Org Code 2017](https://github.com/keithrabb/stock-analysis/blob/main/Resources/Org_Code_2017.PNG)
 
 
+### 2018 Original Code Run Time
 ![Org Code 2018](https://github.com/keithrabb/stock-analysis/blob/main/Resources/Org_Code_2018.PNG)
 
-
+### 2017 REFACTORED Code Run Time
 ![2017 Refactored](https://github.com/keithrabb/stock-analysis/blob/main/Resources/2017_Refactored.PNG)
 
+### 2018 REFACTORED Code Run Time
 ![2018 Refactored](https://github.com/keithrabb/stock-analysis/blob/main/Resources/2018_Refactored.PNG)
   
