@@ -1,7 +1,7 @@
 # Stock-analysis
 
 ## Overview of the VBA Project
-*To build code in VBA and then make it better by refactoring with the same end result.*
+*To build code in VBA and then make it better by refactoring with the same end result. Also, to give Steve a well crafted tool by which to research any stock he wishes.*
   
 ## Results
 - Original Homework Code 2017 ran at 80402.8 seconds
@@ -36,3 +36,13 @@ When Refactored Code was run, it got faster. 2017 code droped from .14 to .11 se
 
 ## Significant Code Changes
 ![Code](https://github.com/keithrabb/stock-analysis/blob/main/Resources/Code.PNG)
+
+
+## Summary
+The advantages to refactoring code: 
+ - A cleaner, more efficient process.  Had this been a much larger data set it woud have taken much more time.
+ - This code can now be used for any year, and any stock data set that is needed to be researched.
+ 
+ The disadvantages:
+ - It took a great deal of time for me to figure out the process, but that is not reflective of doing the process more efficiently.
+ 
